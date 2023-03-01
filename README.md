@@ -1,7 +1,7 @@
 ## Bem-vindo(a) ao meu perfil. Meu nome é Rero 😁
 
 <div align="center">
-<img src="https://github.com/raghavk16/raghavk16/blob/master/coderman.gif" alt="Coder" width="400" height="250" />
+<img src="https://pa1.narvii.com/5738/190fcc7a47abbff065448b82dfb9edcbbc91fc62_hq.gif" alt="Codando" width="400" height="250" />
 </div>
  <div>
    <a href="https://github.com/PauloCesardev99">
