@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao meu perfil. Meu nome é Rero 😁
+## Bem-vindo(a) ao meu perfil. Meu nome é R3RO 😁
 
 <div align="center">
 <img src="https://pa1.narvii.com/5738/190fcc7a47abbff065448b82dfb9edcbbc91fc62_hq.gif" alt="Codando" width="400" height="250" />
