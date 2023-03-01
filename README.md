@@ -3,8 +3,7 @@
  <div>
    <a href="https://github.com/PauloCesardev99
 ">
-    <img align="center" height="250" alt="coding-time" src="code.gif">
-
+    
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PauloCesardev99&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloCesardev99&layout=compact&langs_count=6&theme=tokyonight"/>
 
