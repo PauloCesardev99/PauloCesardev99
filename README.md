@@ -5,8 +5,6 @@
 </div>
  <div>
    <a href="https://github.com/PauloCesardev99">
-   <img height="180em" src="https://github-readme-stats-ruby-one.vercel.app/>
-   <img height="180em" src="https://github-readme-stats.vercel.appPauloCesardev99&layout=compact&langs_count=6&theme=tokyonight"/>
 
 </div>
  <h2>Minhas Habilidades</h2>
