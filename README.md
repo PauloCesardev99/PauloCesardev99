@@ -12,7 +12,8 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="center" alt="bootstrap" height="30" width="40" src="https://th.bing.com/th/id/R.caf4d46d14047ccba0adff8279ec21a9?rik=P1554mGUQ2%2fC4g&pid=ImgRaw&r=0">
+   <img align="center" alt="bootstrap" height="30" width="40" src="https://devicons.dev.br/icons?icon=Bootstrap&theme=light
+">
 </div>
  
  <br>
