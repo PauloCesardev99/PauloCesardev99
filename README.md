@@ -12,7 +12,7 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="center" alt="CSS" height="30" width="40" src="https://www.bing.com/images/search?view=detailV2&ccid=ylJGrEn%2f&id=897FA89AE97999B52A5F0926FB6AB7137D518678&thid=OIP.ylJGrEn_oTmoJTZTzb6UzQHaHN&mediaurl=https%3a%2f%2fwww.kindpng.com%2fpicc%2fm%2f27-278320_bootstrap-logo-logo-png-bootstrap-logo-transparent-png.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.ca5246ac49ffa139a8253653cdbe94cd%3frik%3deIZRfRO3avsmCQ%26pid%3dImgRaw%26r%3d0&exph=837&expw=860&q=bootstrap+5+icon&simid=608025274924879392&FORM=IRPRST&ck=4B3CE69F63506A1D0FDB526B835AEF68&selectedIndex=13&ajaxhist=0&ajaxserp=0">
+   <img align="center" alt="bootstrap" height="30" width="40" src="https://th.bing.com/th/id/R.caf4d46d14047ccba0adff8279ec21a9?rik=P1554mGUQ2%2fC4g&pid=ImgRaw&r=0">
 </div>
  
  <br>
