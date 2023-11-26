@@ -1,7 +1,7 @@
 ## Bem-vindo(a) ao meu perfil. Meu nome é RIRO 😁
 
 <div align="center">
-<img src="https://wifflegif.com/gifs/723886-instagram-mxcq-old-computer-gif" alt="Codando" width="400" height="250" />
+<img src="https://www.gifcen.com/wp-content/uploads/2022/06/lofi-gif-6.gif" alt="Codando" width="400" height="250" />
 </div>
  <div>
    <a href="https://github.com/PauloCesardev99">
