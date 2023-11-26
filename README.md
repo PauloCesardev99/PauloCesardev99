@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao meu perfil. Meu nome é R3RO 😁
+## Bem-vindo(a) ao meu perfil. Meu nome é RIRO 😁
 
 <div align="center">
 <img src="https://pa1.narvii.com/5738/190fcc7a47abbff065448b82dfb9edcbbc91fc62_hq.gif" alt="Codando" width="400" height="250" />
@@ -13,8 +13,7 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" alt="bootstrap" height="30" width="40" src="https://devicons.dev.br/icons?icon=Bootstrap&theme=light">
-  <img align="center" alt = "React" width="40 height= "30" src="https://devicons.dev.br/icons?icon=React&theme=light">
-</div>
+  <img align="center" alt = "React" width="40 height= "30" src="https://devicons.dev.br/icons?icon=React&theme=dark">
  
  <br>
  
