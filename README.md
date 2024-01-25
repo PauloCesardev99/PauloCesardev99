@@ -1,7 +1,7 @@
 ## Bem-vindo(a) ao meu perfil. Meu nome é Paulo 😁
 
 <div align="center">
-<img src="https://i.gifer.com/14jr.gif" alt="Codando" width="400" height="250" />
+<img src="https://art.ngfiles.com/images/1316000/1316907_malistaticy_spike-spiegel-pixel-art-gif.gif?f1592425068" alt="Codando" width="400" height="250" />
 </div>
 
  <div>
