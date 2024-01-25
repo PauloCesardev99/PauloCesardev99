@@ -1,7 +1,7 @@
 ## Bem-vindo(a) ao meu perfil. Meu nome é Paulo 😁
 
 <div align="center">
-<img src="https://images.elle.com.br/2022/08/origin-129.gif" alt="Codando" width="400" height="250" />
+<img src="https://i.gifer.com/14jr.gif" alt="Codando" width="400" height="250" />
 </div>
 
  <div>
